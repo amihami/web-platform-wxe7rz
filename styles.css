@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  align-items: center;
+  background-color:#f7e7e8;
+  font-family: arial; 
+}
+
+h1 {
+  text-align: center;
+  color: rgb(64, 14, 85);
+  font-family: arial;
+  font-size: 25px;
+  margin:0;
+  padding:0px ;
+}
+
+p {
+  font-size: small;
+}
+
+ul {
+  font-size: small;
+}
+
+#container {
+  border: 5px solid darkorange;
+  padding: 10px;
+  margin: auto;
+}
